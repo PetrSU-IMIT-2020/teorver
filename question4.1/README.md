@@ -28,4 +28,5 @@ $\psi_{\xi}(t) = M[e^{it \xi}] = \int_{-\infty}^{\infty}e^{itx} * f(x) * dx$
 - никто
 
 ## Ресурсы
-- лекции
+- [Википедия](https://ru.wikipedia.org/wiki/Характеристическая_функция_случайной_величины)
+- [Левый сайт](https://www.matburo.ru/ex_tv.php?p1=tvhar)
