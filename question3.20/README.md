@@ -7,8 +7,7 @@ $$\displaystyle
   P 
   \Bigg(
   
-  \Bigg)
-$$
+  \Bigg)$$
 
 ---
 ## Создатель
