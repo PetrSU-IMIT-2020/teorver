@@ -21,3 +21,4 @@ $P \bigg(\bigg|\frac{m}{n}-p\bigg| \leq \varepsilon \bigg) > 1 - \delta$
 
 ## Ресурсы
 - Презентация vse_bloki_terver
+в
