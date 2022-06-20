@@ -29,3 +29,4 @@ $$ I(\displaystyle \bigcup_{i = 1}^n A_i)=1-I(\displaystyle \bigcup_{i = 1}^n A_
 
 ## Ресурсы
 - Док vse_bloki_terver
+- Презентация Probability2022
