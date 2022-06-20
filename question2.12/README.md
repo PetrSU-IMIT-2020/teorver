@@ -87,14 +87,14 @@ $$
 
 задача - найти функцию распределения
 решение:
-$\sphericalangle $ x < 0:
+-$\sphericalangle$ x < 0:
 $$F_x(x) = \int_{-\infty}^x f_x(t) \mathrm{d}t = \int_{-\infty}^x 0 \mathrm{d}t = 0 $$
 
-$\sphericalangle $ 0 < x < 1:
+-$\sphericalangle$ 0 < x < 1:
 $$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^x f_x(t) \mathrm{d}t = 0 + \int_0^x (1-x) \mathrm{d}t = 0 + (t - \dfrac{t^2}{2})\middle|_0^x $$
 $$F_x(x) = 2(x - \dfrac{x^2}{2}) $$
 
-$\sphericalangle $ x > 1:
+-$\sphericalangle$ x > 1:
 $$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^1 f_x(t) \mathrm{d}t +  \int_1^x f_x(t) \mathrm{d}t = 0 + 2(1 - 1/2) + \int_1^x 0 \mathrm{d}t = 1 $$
 
 итог: функция распределения имеет вид:
