@@ -11,7 +11,7 @@
 
 ***Формула:*** 
 
-$P(H_i|_A) = \frac{P(A|_{H_i})P(H_i)}{P(A)}$
+$P(H_i\|_A) = \frac{P(A|\_{H_i})P(H_i)}{P(A)}$
 
 где $P(A) = \displaystyle\sum_{i=1}^{n}P(H_i)P(A|_{H_i})$ - формула полной вероятности
 
@@ -20,8 +20,10 @@ $P(H_i|_A) = \frac{P(A|_{H_i})P(H_i)}{P(A)}$
 $P(AB) = P(A|_B)P(B) = P(B|_A)P(A)$
 $=> P(A|_B) = \frac{P(B|_A)P(A)}{P(B)}$
 $=> P(B|_A) = \frac{P(A|_B)P(B)}{P(A)}$  
+
 Заменим $B$ на $H_i$:  
-$P(H_i|_A) = \frac{P(A|_{H_i})P(H_i)}{P(A)}$
+
+$P(H_i|\_A) = \frac{P(A|\_{H_i})P(H_i)}{P(A)}$
 
 ## Пример
 
@@ -32,12 +34,12 @@ $P(H_i|_A) = \frac{P(A|_{H_i})P(H_i)}{P(A)}$
 $H_1$ = {переложили белый шар} => $P(H_1) = \frac{6}{10} = 0.6$  
 $H_2$ = {переложили черный шар} => $P(H_2) = \frac{4}{10} = 0.4$   
 
-$P(A|_{H_1}) = \frac{3+1}{10+1} = \frac{4}{11}$   
-$P(A|_{H_2}) = \frac{3}{10+1} = \frac{3}{11}$ 
+$P(A|\_{H_1}) = \frac{3+1}{10+1} = \frac{4}{11}$   
+$P(A|\_{H_2}) = \frac{3}{10+1} = \frac{3}{11}$ 
 
-$P(A) = \displaystyle\sum_{i=1}^{n}P(H_i)P(A|_{H_i}) = 0.6*\frac{4}{11} + 0.4*\frac{3}{11} = \frac{18}{55}$
+$P(A) = \displaystyle\sum_{i=1}^{n}P(H_i)P(A|\_{H_i}) = 0.6*\frac{4}{11} + 0.4*\frac{3}{11} = \frac{18}{55}$
 
-$P(H_1|_A) = \frac{P(A|_{H_1})P(H_1)}{P(A)} = \frac{\frac{4}{11}*\frac{3}{5}}{\frac{18}{55}} = \frac{12}{18} = \frac{2}{3}$
+$P(H_1|\_A) = \frac{P(A|\_{H_1})P(H_1)}{P(A)} = \frac{\frac{4}{11}*\frac{3}{5}}{\frac{18}{55}} = \frac{12}{18} = \frac{2}{3}$
 
 ***Ответ:*** $\frac{2}{3}$
 
