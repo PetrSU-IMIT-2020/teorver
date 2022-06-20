@@ -23,7 +23,7 @@ $\displaystyle \sum_{k}p_k = 1$.
 
 Начальным мометом $i$-го порядка распределения случайной величины Х (если он существует) называется число $\alpha_i$, определяемое по формуле 
 
-$$\displaystyle \mu_i = M[\xi^i] = \sum_{k}x_k^ip_k$$
+$$\displaystyle \alpha_i = M[\xi^i] = \sum_{k}x_k^ip_k$$
 
 ---
 
