@@ -8,9 +8,9 @@ P
   \begin{pmatrix}
   
   \end{pmatrix}
-
-## Теорема
 $$
+## Теорема
+
 
 ## Пример
 
