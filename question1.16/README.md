@@ -80,8 +80,9 @@ $$\displaystyle P\lbrace \xi = 0 \rbrace = P\lbrace \omega_1\omega_2\omega_3 \rb
 Вычислим функцию распределения. Согласно определению
 $$\displaystyle F_\xi(x) = P\lbrace \xi < x\rbrace = \sum_{k, x_k < x}P\lbrace \xi = x_k\rbrace = \sum_{k, k < z}P\lbrace \xi = k\rbrace$$
 
-Подставляю сюда найденные выше вероятности, находим 
-$$ F_\xi(x) =
+Подставляю сюда найденные выше вероятности, находим  
+
+$$F_\xi(x) =
 \begin{cases}
 0, \text{ если } x \leq 0,\\
 1/8, \text{ если } 0 < x \leq 1,\\
