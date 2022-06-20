@@ -12,7 +12,7 @@ $\displaystyle P_n(m_1 < \xi < m_2) = \Phi(x_2) - \Phi(x_1) $
 
 - q = 1 - p
 
-- $\Phi(m)  = \frac{1}{\sqrt{2\pi}} * \int_{0}^{x}e^{\frac{-z^2}{2}}dz$
+- $\Phi(x)  = \frac{1}{\sqrt{2\pi}} * \int_{0}^{x}e^{\frac{-z^2}{2}}dz$
 
 - $x_{1,2} = \frac{m_{1,2} - np}{\sqrt{npq}}$
 
