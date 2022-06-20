@@ -24,7 +24,7 @@
 - [ ] 8. Основные соотношения между вероятностями событий.
 - [x] 9. [Схема Бернулли.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.9/README.md)
 - [x] 10. [Полиномиальная схема.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.10/README.md)
-- [ ] 11. Формула сложения и умножения вероятностей.
+- [x] 11. Формула сложения и умножения вероятностей.
 - [ ] 12. Аксиоматическая теория вероятностей.
 - [x] 13. [Схема выбора, приводящая к сочетаниям.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.13/README.md)
 - [x] 14. [Схема выбора, приводящая к размещениям.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.14/README.md)
