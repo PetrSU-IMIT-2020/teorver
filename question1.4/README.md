@@ -16,7 +16,9 @@
 Событие B - шар с номером 5. $\displaystyle P(B) = \frac{1}{10}$.
 
 Проверим на независимость:
-$\displaystyle P(A \cap B) = \frac{1}{20}$ и $\displaystyle P(A)*P(B) = \frac{1}{2}\cdot \frac{1}{10} = \frac{1}{20}$. $\displaystyle \frac{1}{20} = \frac{1}{20} \Rightarrow$ события независимы
+$\displaystyle P(A \cap B) = \frac{1}{20} \text{ и } \displaystyle P(A)*P(B) = \frac{1}{2}\cdot \frac{1}{10} = \frac{1}{20}$.   
+
+$\displaystyle \frac{1}{20} = \frac{1}{20} \Rightarrow$ события независимы
 
 ## Независимые семейства событий
 
