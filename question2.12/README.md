@@ -21,9 +21,9 @@ $$\sigma(x) = \sqrt{D(x)}$$
 #СНВТ без непонятных терминов
 Случайная величина  $\xi $ называется абсолютно непрерывной, если существует функция P(x) такая, что:
 - $P(x) \geq 0$
-- $\int_-\infity^\infrty P(x) \: \mathrm{d}x = 1$
+- $\int_-\infty^\infty P(x) \: \mathrm{d}x = 1$
 - $\forall \; x \in R $ имеет место равенство:
-$$\int_-\infity^t P(x) \: \mathrm{d}x = F(t)$$
+$$\int_-\infty^t P(x) \: \mathrm{d}x = F(t)$$
 
 ## Теория от Алисы
 > Пусть есть  вероятностное пространство $(\Omega, F, \mathbb P)$  
