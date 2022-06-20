@@ -28,4 +28,4 @@ $$ I(\bigcup_(i=1)^n)=1-I(\bigcup_(i=1)^n A_i ) = 1-I(\bigcap_(i=1)^n \overline{
 - никто
 
 ## Ресурсы
-- 
+-
