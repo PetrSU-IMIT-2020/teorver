@@ -8,7 +8,7 @@
 
 ## Формула
 
-$\displaystyle P_{\eta}(y) = { ()$
+$\displaystyle P_{\eta}(y) = \{ ()$
 
 ---
 ## Создатель
