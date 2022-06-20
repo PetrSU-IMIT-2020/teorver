@@ -28,4 +28,4 @@ $$ I(\displaystyle \bigcup_{i = 1}^n A_i)=1-I(\displaystyle \bigcup_{i = 1}^n A_
 - никто
 
 ## Ресурсы
--
+- Док vse_bloki_terver
