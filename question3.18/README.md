@@ -4,6 +4,8 @@
 
 ## Формула
 
+- $\delta$ - любое число
+
 $\forall \delta > 0 \ \ P(|\xi - M_{\xi}| \geqslant \delta) \leqslant \frac{D_{\xi}}{\delta^2}$
 
 ## Значение
