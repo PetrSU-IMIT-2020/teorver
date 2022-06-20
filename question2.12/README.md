@@ -93,7 +93,7 @@ $$F_x(x) = \int_{-\infty}^x f_x(t) \mathrm{d}t = \int_{-\infty}^x 0 \mathrm{d}t 
 
 -$\sphericalangle$ 0 < x < 1:
 
-$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t + \int_0^x f_x(t) \mathrm{d}t = 0 + \int_0^x (1-x) \mathrm{d}t = 0 + (t - \dfrac{t^2}{2})\middle|_0^x $$
+$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t + \int_0^x f_x(t) \mathrm{d}t = 0 + \int_0^x (1-x) \mathrm{d}t = 0 + (t - \dfrac{t^2}{2})\middle| \begin{matrix} x\\ 0 \end{matrix} $$
 
 $$F_x(x) = 2(x - \dfrac{x^2}{2}) $$
 
