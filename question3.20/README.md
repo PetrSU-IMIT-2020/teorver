@@ -6,8 +6,7 @@
 $$P 
   \begin{pmatrix}
   
-  \end{pmatrix}
-$$
+  \end{pmatrix}$$
 ## Теорема
 
 
