@@ -6,8 +6,8 @@
 
 $$ I(A) = IA(ω) =
 \begin{cases}
-  1, ω ∈ A; \\
-  0, ω 6∈ A.
+  1, ω ∈ A, \\
+  0, ω \not\in A.
 \end{cases}
 $$
 
