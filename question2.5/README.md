@@ -16,7 +16,7 @@ $$ I(∅)=0; I(Ω)=1; I \overline{A} = 1-I(A); I(AB) =I(A)I(B);$$
 
 $$ I(A+B)=I(A)+I(B)-I(AB); I^n(A)=I(A);$$
 
-$$ I(\displaystyle \bigcup_{i = 1}^n A_i)=1-I(\displaystyle \bigcup_{i = 1}^n A_i ) = 1-I(\displaystyle \bigcap_{i = 1}^n \overline{A_i}) = 1- \displaystyle \prod_(i=1)^n (1-I(A_i)), n>=1 $$
+$$ I(\displaystyle \bigcup_{i = 1}^n A_i)=1-I(\displaystyle \bigcup_{i = 1}^n A_i ) = 1-I(\displaystyle \bigcap_{i = 1}^n \overline{A_i}) = 1- \displaystyle \prod_{i=1}^n (1-I(A_i)), n>=1 $$
 
 ## Пример
 
