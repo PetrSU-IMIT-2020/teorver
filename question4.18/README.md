@@ -13,7 +13,7 @@ $$\displaystyle
     \begin{cases}
     0, y < 0\\
     \lambda^{(\kappa + 1)}
-    \end{cases}
+    \end{cases}\frac{y^{\kappa}}{\kappa !}\varepsilon^{-\lambda y}
 $$
 
 ---
