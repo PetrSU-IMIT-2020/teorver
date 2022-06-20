@@ -64,7 +64,7 @@ $F_\xi(x) = \mathbb P(\xi(\omega) < x) = \mathbb P(\xi < x)$
 
 Возьмем правильную монету, которую подбросили. Такой опыт имеет два исхода - выпал орел (0), выпала решка (1), вероятность каждого из которых равна $\frac{1}{2}$.
 
-Закон распределения:  $ \begin{array}{c|c|c} \xi & 0 & 1 \\ \hline  P_\xi & \frac{1}{2} & \frac{1}{2} \end{array} $
+Закон распределения:  $\begin {array}{c|c|c} \xi & 0 & 1 \\ \hline  P_\xi & \frac{1}{2} & \frac{1}{2} \end{array} $
 
 Функция распределения: $F_\xi(x) = \begin{cases} 0 & \quad x \leq 0 \\ \frac{1}{2}  & \quad 0 < x \leq 1 \\ 1 & \quad x > 1 \end{cases}$
 
