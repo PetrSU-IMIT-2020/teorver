@@ -36,7 +36,6 @@ $P(A+B)=\frac{1}{6}+\frac{1}{6}-\frac{1}{6}\cdot\frac{1}{6}=\frac{11}{36}$
 $P(A) = \frac{30}{35} = \frac{6}{7}$
 
 $P(B \backslash A) = \frac{29}{34}$
-
 $P(A \cdot B) = \frac{6}{7} \cdot \frac{29}{34} = \frac{87}{119}$
 
 ---
