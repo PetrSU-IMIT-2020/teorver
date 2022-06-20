@@ -26,7 +26,7 @@ $$ F_x(x) = P(X < x) = \int_{-\infty}^x f_x(t) \mathrm{d}t$$
 Плотность распределения обладает следующими свойствами:
 - $f(x) \geq 0 $,  $-\infty < x < \infty$ 
 - $\int_{-\infty}^{\infty} f(x) \: \mathrm{d}x = 1$  (Условие нормировки)
-- $\dfrac{d}{\mathrm{d}x}F_x(x) = f_x(x)$ в точках непрерывности $f_x(x) \quad $ ($F_x^ \prime(x) = f_x(x) $)
+- $\dfrac{d}{\mathrm{d}x}F_x(x) = f_x(x)$ в точках непрерывности  $f_x(x) \quad $ ($F_x^ \prime(x) = f_x(x) $)
 
 ### СНВТ без непонятных терминов
 Случайная величина  $\xi $ называется абсолютно непрерывной, если существует функция P(x) такая, что:
@@ -72,6 +72,36 @@ $\xi$ - непрерывной.
 $$P(x) =
 \begin{cases} 0, \quad & x\notin [a, b] \\
 \frac{1}{b-a}, \quad & x \in [a,b] 
+\end{cases}
+$$
+
+## Пример нахождения функции распределения из плотности
+
+СВНТ имеет плотность распределения:
+$$f_x(x) =
+\begin{cases} 0, \quad & x < 0 \\
+2*(1 - x), \quad & 0 \geq x \leq 1 \\
+0, \quad & x > 1
+\end{cases}
+$$
+
+задача - найти функцию распределения
+решение:
+$\sphericalangle $ x < 0:
+$$F_x(x) = \int_{-\infty}^x f_x(t) \mathrm{d}t = \int_{-\infty}^x 0 \mathrm{d}t = 0 $$
+
+$\sphericalangle $ 0 < x < 1:
+$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^x f_x(t) \mathrm{d}t = 0 + \int_0^x (1-x) \mathrm{d}t = 0 + (t - \dfrac{t^2}{2})\middle|_0^x $$
+$$F_x(x) = 2(x - \dfrac{x^2}{2}) $$
+
+$\sphericalangle $ x > 1:
+$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^1 f_x(t) \mathrm{d}t +  \int_1^x f_x(t) \mathrm{d}t = 0 + 2(1 - 1/2) + \int_1^x 0 \mathrm{d}t = 1 $$
+
+итог: функция распределения имеет вид:
+$$F_x(x) =
+\begin{cases} 0, \quad & x < 0 \\
+2(x - \dfrac{x^2}{2}), \quad & 0 \geq x \leq 1 \\
+1, \quad & x > 1
 \end{cases}
 $$
 
