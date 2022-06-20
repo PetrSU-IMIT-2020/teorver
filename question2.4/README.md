@@ -17,7 +17,7 @@
 $M_\xi = \displaystyle\sum_{i \in I} x_ip_i$
 ### Свойства
 
-1. $M[\xi, \eta] = M_\xi + M_\eta$
+1. $M[\xi + \eta] = M_\xi + M_\eta$
 2. $M[k*\xi] = k*M_\xi$
 3. $M[k\xi + l\eta] = kM_\xi + lM_\eta$
 4. $(\Omega, F, \mathbb P) \quad \text{Пусть } A \in F - \text{некоторое событие A}$
