@@ -1,5 +1,5 @@
 # Билет №1.8. Основные соотношения между вероятностями событий
-Путь задано вероятностное пространство ({\Omega}, {\displaystyle {\mathfrak {A}}}{\mathfrak {A}},	{\displaystyle \mathbb {P} }\mathbb {P})
+Путь задано вероятностное пространство (\Omega, {\displaystyle {\mathfrak {A}}}{\mathfrak {A}},	{\displaystyle \mathbb {P} }\mathbb {P})
 
 \Omega  — произвольное непустое множество, элементы которого называются элементарными событиями, исходами или точками;
 {\displaystyle {\mathfrak {A}}}{\mathfrak {A}} — сигма-алгебра подмножеств {\displaystyle \Omega }\Omega , называемых (случайными) событиями;
