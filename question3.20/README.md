@@ -5,9 +5,9 @@
 
 $$\displaystyle 
 P 
-  \begin{pmatrix}
+  \Bigg(
   
-  \end{pmatrix}
+  \Bigg)
 $$
 ## Теорема
 
