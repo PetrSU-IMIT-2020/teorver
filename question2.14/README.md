@@ -63,35 +63,48 @@ $F_\xi(x) = \mathbb P(\xi(\omega) < x) = \mathbb P(\xi < x)$
     
     $\lim\limits_{n \to \infty} \mathbb P(A_n) = \varnothing = \lim\limits_{n \to \infty} (F_\xi(x) - F_\xi(x-L_n))$ => $F_\xi(x) = \lim\limits_{n \to \infty} F_\xi(x-L_n)$
     
-## Пример
+## Пример нахождения функции распределения из плотности (из 2.12)
 
-Возьмем правильную монету, которую подбросили. Такой опыт имеет два исхода - выпал орел (0), выпала решка (1), вероятность каждого из которых равна $\frac{1}{2}$.
+СВНТ имеет плотность распределения:
 
-Закон распределения: 
+$$f_x(x) =
+\begin{cases} 0, \quad & x < 0 \\
+2*(1 - x), \quad & 0 \geq x \leq 1 \\
+0, \quad & x > 1
+\end{cases}
+$$
 
-$$\begin{array}{c|c|c}
-\xi&0&1 \\
-\hline
-P_\xi&\frac{1}{2}&\frac{1}{2}
-\end{array}$$
+задача - найти функцию распределения
+решение:
 
-Функция распределения: 
+-$\sphericalangle$ x < 0:
+$$F_x(x) = \int_{-\infty}^x f_x(t) \mathrm{d}t = \int_{-\infty}^x 0 \mathrm{d}t = 0 $$
 
-$$F_\xi(x) = 
-\begin{cases} 
-0 & \quad x \leq 0 \\ 
-\frac{1}{2}  & \quad 0 < x \leq 1 \\ 
-1 & \quad x > 1 
-\end{cases}$$
+-$\sphericalangle$ 0 < x < 1:
 
----
+$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t + \int_0^x f_x(t) \mathrm{d}t = 0 + \int_0^x (1-x) \mathrm{d}t $$
+
+$$F_x(x) = 2(x - \dfrac{x^2}{2}) $$
+
+-$\sphericalangle$ x > 1:
+$$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^1 f_x(t) \mathrm{d}t +  \int_1^x f_x(t) \mathrm{d}t = 0 + 2(1 - 1/2) + \int_1^x 0 \mathrm{d}t = 1 $$
+
+итог: функция распределения имеет вид:
+
+$$F_x(x) =
+\begin{cases} 0, \quad & x < 0 \\
+2(x - \dfrac{x^2}{2}), \quad & 0 \geq x \leq 1 \\
+1, \quad & x > 1
+\end{cases}
+$$
+
 ## Создатель
 
 Автор расписанного билета: Лисицкий Олег + Алиса Хайдарова
 
 Кто проверил:
-- никто
 
 ## Ресурсы
 - лекции
-- учебник
+- книга Рогова, стр. 57 https://studizba.com/files/show/pdf/18027-4-4-chast.html
+- Электронное хранилище учебных материалов https://edu.tltsu.ru/er/book_view.php?book_id=1cec&page_id=19444
