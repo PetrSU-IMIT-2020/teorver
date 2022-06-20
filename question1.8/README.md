@@ -5,11 +5,11 @@ $\Omega$  — произвольное непустое множество, эл
 ${\displaystyle {\mathfrak {A}}}$ — сигма-алгебра подмножеств ${\displaystyle \Omega }$ , называемых (случайными) событиями;\
 ${\displaystyle \mathbb {P} }$  — вероятностная мера или вероятность, то есть сигма-аддитивная конечная мера, такая что ${\displaystyle \mathbb {P} (\Omega )=1}$.\
 
-Основные соотношения:\\
-1. $A \in {\displaystyle {\mathfrak {A}}}$\\
-   $P(\overline{A}) = 1 - P(A)$\\
-   $A, \overline{A}$ - несовместные, $A + \overline{A} = \Omega$\\
-   По аксиоме счетной аддитивности $P(A) + P(\overline{A}) = P(\Omega) = 1$ (по аксиоме нормирования)\\
+Основные соотношения:\
+1. $A \in {\displaystyle {\mathfrak {A}}}$\
+   $P(\overline{A}) = 1 - P(A)$\
+   $A, \overline{A}$ - несовместные, $A + \overline{A} = \Omega$\
+   По аксиоме счетной аддитивности $P(A) + P(\overline{A}) = P(\Omega) = 1$ (по аксиоме нормирования)\
 
 2. $A, B \in {\displaystyle {\mathfrak {A}}}{\mathfrak {A}}   A < B   P(A) \leq P(B)$\\
    $B = A \cup (B\A)$ по аксиоме аддитивности\\
