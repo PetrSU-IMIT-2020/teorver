@@ -12,7 +12,13 @@ $\mathbb P(\xi = x_{i = \overline{1,n}}) = \frac{1}{n}$
 
 Возьмем правильную монету, которую подбросили. Такой опыт имеет два исхода - выпал орел (0), выпала решка (1), вероятность каждого из которых равна $\frac{1}{2}$.
 
-Закон распределения: $\begin{array}{c|c|c} \xi & 0 & 1 \\ \hline  P_\xi & \frac{1}{2} & \frac{1}{2} \end{array}$
+Закон распределения:
+
+$$\begin{array}{c|c|c}
+\xi&0&1 \\
+\hline
+P_\xi&\frac{1}{2}&\frac{1}{2}
+\end{array}$$
 
 ## Для непрерывной случайной величины
 
@@ -20,15 +26,25 @@ $\mathbb P(\xi = x_{i = \overline{1,n}}) = \frac{1}{n}$
 
 Случайная величина  $\xi $ имеет равномерное распределение на  $[a, b] $, если:
 
-$\mathbb P(x) = \begin{cases} \frac{1}{b-a} & \quad x \in [a, b] \\ 0  & \quad  x \notin [a, b] \end{cases}$
+$$\mathbb P(x) = 
+\begin{cases} \frac{1}{b-a} & \quad x \in [a, b] \\
+0  & \quad  x \notin [a, b] 
+\end{cases}$$
 
-$F_\xi(x) = \begin{cases} 0 & \quad x \leq 0 \\ \frac{1}{2}  & \quad 0 < x \leq 1 \\ 1 & \quad x > 1 \end{cases}$
+$$F_\xi(x) = 
+\begin{cases} 0 & \quad x \leq 0 \\
+\frac{1}{2}  & \quad 0 < x \leq 1 \\
+1 & \quad x > 1
+\end{cases}$$
 
 ### Пример
 
 Случайная величина  $\xi $ равномерно распределена на отрезке $[-3, 1]$.
 
-$\mathbb P(x) = \begin{cases} \frac{1}{4} & \quad x \in [-3, 1] \\ 0  & \quad  x \notin [-3, 1] \end{cases}$
+$$\mathbb P(x) = 
+\begin{cases} \frac{1}{4} & \quad x \in [-3, 1] \\
+0  & \quad  x \notin [-3, 1] 
+\end{cases}$$
 
 ---
 ## Создатель
