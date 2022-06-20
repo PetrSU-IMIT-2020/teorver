@@ -14,40 +14,40 @@
 ## Список билетов
 ### Первая часть
 
-- [x] 1. [Основные понятия теории вероятностей.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.1/README.md)
-- [x] 2. [Классическая вероятность.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.2/README.md)
-- [x] 3. [Условная вероятность.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.3/README.md)
-- [x] 4. [Независимые события. Принцип независимости.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.4/README.md)
-- [x] 5. [Формула полной вероятности.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.5/README.md)
-- [x] 6. [Формула Байеса.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.6/README.md)
-- [x] 7. [Формула умножения вероятностей для  n  событий.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.7/README.md)
+- [x] 1. [Основные понятия теории вероятностей.](./question1.1/README.md)
+- [x] 2. [Классическая вероятность.](./question1.2/README.md)
+- [x] 3. [Условная вероятность.](./question1.3/README.md)
+- [x] 4. [Независимые события. Принцип независимости.](./question1.4/README.md)
+- [x] 5. [Формула полной вероятности.](./question1.5/README.md)
+- [x] 6. [Формула Байеса.](./question1.6/README.md)
+- [x] 7. [Формула умножения вероятностей для  n  событий.](./question1.7/README.md)
 - [ ] 8. Основные соотношения между вероятностями событий.
-- [x] 9. [Схема Бернулли.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.9/README.md)
-- [x] 10. [Полиномиальная схема.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.10/README.md)
-- [x] 11. [Формула сложения и умножения вероятностей.](https://github.com/PetrSU-IMIT-2020/teorver/tree/main/question1.11)
+- [x] 9. [Схема Бернулли.](./question1.9/README.md)
+- [x] 10. [Полиномиальная схема.](./question1.10/README.md)
+- [x] 11. [Формула сложения и умножения вероятностей.](./question1.11)
 - [ ] 12. Аксиоматическая теория вероятностей.
-- [x] 13. [Схема выбора, приводящая к сочетаниям.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.13/README.md)
-- [x] 14. [Схема выбора, приводящая к размещениям.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.14/README.md)
-- [x] 15. [Схема выбора, с возвращением и без упорядочивания.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.15/README.md)
+- [x] 13. [Схема выбора, приводящая к сочетаниям.](./question1.13/README.md)
+- [x] 14. [Схема выбора, приводящая к размещениям.](./question1.14/README.md)
+- [x] 15. [Схема выбора, с возвращением и без упорядочивания.](./question1.15/README.md)
 - [ ] 16. Дискретная случайная величина, определение и закон распределения.
-- [x] 17. [Функция распределения дискретной случайной величины и ее свойства.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.17/README.md)
-- [x] 18. [Равномерное распределение на множестве чисел.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.18/README.md)
-- [x] 19. [Биномиальное распределение.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.19/README.md)
-- [x] 20. [Распределение Пуассона.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.20/README.md)
-- [x] 21. [Теорема Пуассона.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question1.21/README.md)
+- [x] 17. [Функция распределения дискретной случайной величины и ее свойства.](./question1.17/README.md)
+- [x] 18. [Равномерное распределение на множестве чисел.](./question1.18/README.md)
+- [x] 19. [Биномиальное распределение.](./question1.19/README.md)
+- [x] 20. [Распределение Пуассона.](./question1.20/README.md)
+- [x] 21. [Теорема Пуассона.](./question1.21/README.md)
 
 ### Вторая часть
-- [x] 1. [Многомерное распределение, дискретный случай.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question2.1/README.md)
+- [x] 1. [Многомерное распределение, дискретный случай.](./question2.1/README.md)
 - [ ] 2. Независимость случайных величин.
 - [ ] 3. Распределении суммы независимых дискретных случайных величин.
-- [x] 4. [Математическое ожидание дискретной случайной величины.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question2.4/README.md)
+- [x] 4. [Математическое ожидание дискретной случайной величины.](./question2.4/README.md)
 - [ ] 5. Индикатор случайной величины.
 - [ ] 6. Математическое ожидание для функции от случайной величины.
 - [ ] 7. Дисперсия дискретной случайной величины.
-- [x] 8. Ковариация дискретной случайной величины.
+- [x] 8. [Ковариация дискретной случайной величины.](./question2.8/README.md)
 - [ ] 9. Корреляция дискретной случайной величины.
 - [ ] 10. Дисперсия суммы дискретных случайных величин.
-- [x] 11. [Моменты дискретной случайной величины.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question2.11/README.md)
+- [x] 11. [Моменты дискретной случайной величины.](./question2.11/README.md)
 - [x] 12. Случайная величина непрерывного типа.
 - [ ] 13. Функция распределения случайной величины.
 - [x] 14. Свойства функции непрерывной случайной величины.
