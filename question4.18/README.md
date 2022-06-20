@@ -12,8 +12,8 @@ $$\displaystyle
   P_{\eta}(y) = 
     \begin{cases}
     0, y < 0\\
-    \lambda^{(\kappa + 1)}
-    \end{cases}\frac{y^{\kappa}}{\kappa !}\varepsilon^{-\lambda y}
+    \lambda^{(\kappa + 1)}\frac{y^{\kappa}}{\kappa !}\varepsilon^{-\lambda y}
+    \end{cases}
 $$
 
 ---
