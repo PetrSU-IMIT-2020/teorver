@@ -7,9 +7,9 @@
 и  $\sigma$
 , где $-\infty < a < \infty, \sigma > 0$, если:
 
-$P_\xi(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-a)^2}{2\sigma^2}}$
+$P_\xi(x) = \Huge\frac{1}{\sigma\sqrt{2\pi}}e^{-\Huge\frac{(x-a)^2}{2\sigma^2}}$
 
-$F_\xi(x) = \frac{1}{\sigma\sqrt{2\pi}}\displaystyle\int\limits_{-\infty}^xe^{-\frac{(\tau-a)^2}{2\sigma^2}}d\tau$
+$F_\xi(x) = \Huge\frac{1}{\sigma\sqrt{2\pi}}\Huge\int\limits_{-\infty}^xe^{-\Huge\frac{(\tau-a)^2}{2\sigma^2}}d\tau$
 
 Обозначается: $\xi \sim N(a, \sigma)$
 
@@ -17,18 +17,18 @@ $F_\xi(x) = \frac{1}{\sigma\sqrt{2\pi}}\displaystyle\int\limits_{-\infty}^xe^{-\
 
 $\sphericalangle \xi \sim N(0, 1)$ и $\eta = a + \sigma\xi$
 
-1. $P_\xi(x) = \frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$
+1. $P_\xi(x) = \Huge\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$
     
-    $F_\xi(x) = \frac{1}{\sqrt{2\pi}}\displaystyle\int\limits_{-\infty}^xe^{-\frac{\tau^2}{2}}d\tau$
+    $F_\xi(x) = \Huge\frac{1}{\sqrt{2\pi}}\Huge\int\limits_{-\infty}^xe^{-\frac{\tau^2}{2}}d\tau$
     
-2. $M_\xi = \displaystyle\int\limits_{-\infty}^\infty x\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = -\frac{1}{\sqrt{2\pi}}\displaystyle\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}} d(-\frac{x^2}{2}) = 0$ (интеграл от четной функции по симметричному промежутку = 0)
+2. $M_\xi = \Huge\int\limits_{-\infty}^\infty x\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = -\frac{1}{\sqrt{2\pi}}\Huge\int\limits_{-\infty}^\infty e^{-\Huge\frac{x^2}{2}} d(-\Huge\frac{x^2}{2}) = 0$ (интеграл от четной функции по симметричному промежутку = 0)
     
     $M_\eta = M[a + \sigma\xi] = M[a] + M[\sigma\xi] = a$
     
-3. $D_\xi = \displaystyle\int\limits_{-\infty}^\infty x^2\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = \begin{bmatrix} x = u, & dx = du \\ -xe^{-\frac{x^2}{2}}dx = dv, & v = e^{-\frac{x^2}{2}} \end{bmatrix}$
-= $\frac{1}{\sqrt{2\pi}} (\left.xe^{-\frac{x^2}{2}}\right|_{\infty}^\infty$ -  
-- $ \displaystyle\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx)$
-= $ \frac{1}{\sqrt{2\pi}}\displaystyle\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx = 1$ (интеграл от плотности = 1)
+3. $D_\xi = \Huge\int\limits_{-\infty}^\infty x^2\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = \begin{bmatrix} x = u, & dx = du \\ -xe^{-\frac{x^2}{2}}dx = dv, & v = e^{-\frac{x^2}{2}} \end{bmatrix}$
+= $\Huge\frac{1}{\sqrt{2\pi}} (\left.xe^{-\Huge\frac{x^2}{2}}\right|_{\infty}^\infty$ -  
+- $ \Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx)$
+= $ \Huge\frac{1}{\sqrt{2\pi}}\Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx = 1$ (интеграл от плотности = 1)
     
     $D_\eta = D[a + \sigma\xi] = \sigma^2 D_\xi = \sigma ^ 2$
     
@@ -42,7 +42,7 @@ $\sphericalangle \xi \sim N(0, 1)$ и $\eta = a + \sigma\xi$
 Автор расписанного билета: Алиса Хайдарова
 
 Кто проверил:
-- никто
+- Николай Беленков
 
 ## Ресурсы
 - лекции
