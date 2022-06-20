@@ -16,7 +16,7 @@
 и случайная величина $\xi: \Omega \to R^+$. 
 Математическое ожидание $M_\xi$ этой случайной величины конечно. 
 
-Тогда для любого $\epsilon > 0$ верно равенство $\displaystyle P(\xi \geq \epsilon) \leq \frac{M_\xi}{\epsilon}$
+Тогда для любого $\displaystyle \epsilon > 0\ верно\ равенство\ \displaystyle P(\xi \geq \epsilon) \leq \frac{M_\xi}{\epsilon}$
 
 ## Доказательство 
 
