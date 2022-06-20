@@ -23,7 +23,8 @@ $\sphericalangle$ отображение множества элементарн
 
 Пусть задано $(\Omega, F, \mathbb P)$
 
-Пусть $\exists P(x) : \forall x \quad\exists \displaystyle\int\limits_{-\infty}^x P(t)dt = F_\xi(x)$. Тогда $P(x)$ называется плотностью, а случайная величина $\xi$ - непрерывной.
+Пусть $\exists P(x) : \forall x \quad\exists \displaystyle\int\limits_{-\infty}^x P(t)dt = F_\xi(x)$. Тогда $P(x)$ называется плотностью, а случайная величина 
+$\xi$ - непрерывной.
 
 Таким образом непрерывная случайная величина задается плотностью.
 
@@ -32,4 +33,9 @@ $\sphericalangle$ отображение множества элементарн
 Пусть случайная величина $\xi$ имеет равномерное распределение на [a, b].
 
 Плотность распределения:
-$P(x) = \begin{cases} 0, \quad & x\notin [a, b] \\ \frac{1}{b-a}, \quad & x \in [a,b] \end{cases}$
+
+$$P(x) =
+\begin{cases} 0, \quad & x\notin [a, b] \\
+\frac{1}{b-a}, \quad & x \in [a,b] 
+\end{cases}
+$$
