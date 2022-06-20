@@ -8,7 +8,13 @@
 
 ## Формула
 
-$$\displaystyle P_{\eta}(y) = \{ ()$$
+$$\displaystyle 
+  P_{\eta}(y) = 
+    \begin{cases}
+    0, y < 0\\
+    \lambda^{(\kappa + 1)}
+    \end{cases}
+$$
 
 ---
 ## Создатель
