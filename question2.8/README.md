@@ -63,7 +63,8 @@ $$\displaystyle \alpha_{k, s} = M[\xi^k \eta^s] = \sum_{i}\sum_{j} x_i^k y_j^sp_
 Начальный момент $\alpha_{k, s}$ существует, если ряд в правой части равенства абсолютно сходится. 
 В частности, $\alpha_{k, 0} = M[\xi^k], \alpha_{0, s} = M[\eta^s]$ - соответствующие начальные моменты отдельных компонент.
 
-Соответственно, $\displaystyle a_{1, 1} = \sum_i\sum_jx_iy_jp_{ij}$ - математическое ожидание для случайного вектора $(\xi, \eta)$
+Соответственно, $\displaystyle a_{1, 1} = \sum_i\sum_jx_iy_jp_{ij}$ - математическое ожидание
+для случайного вектора $(\xi, \eta)$
 
 Центральным моментом порядка $k + s$ случайного вектора $(\xi, \eta)$ называется действительное 
 число $\mu_{k, s}$ определяемое формулой 
@@ -155,7 +156,7 @@ $$M[\xi, \eta] = 0.1\cdot (-6)\cdot (-2) +0.2\cdot 3\cdot (-2) + 0.05\cdot 3\cdo
 - ...
 
 ## Ресурсы
-- [Учебник, стр. 56 - ](https://studizba.com/files/show/pdf/18027-4-4-chast.html)
+- [Учебник, стр. 56 - 59, 85-89 ](https://studizba.com/files/show/pdf/18027-4-4-chast.html)
 - [Конечное множество](https://dic.academic.ru/dic.nsf/ruwiki/977727)
 - [Счётное множество](https://dic.academic.ru/dic.nsf/ruwiki/1363#:~:text=%D0%A1%D1%87%D1%91%D1%82%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%E2%80%94%20%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B,%D0%B8%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%20%D0%B2%D1%81%D0%B5%D1%85%20%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%87%D0%B8%D1%81%D0%B5%D0%BB.)
 - [Зачем нужна ковариация](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)
