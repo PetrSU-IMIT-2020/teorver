@@ -96,6 +96,6 @@
 - [ ] 15. Закон распределения суммы случайных величин непрерывного типа.
 - [x] 16. [Суммы случайных величин, распределенных по закону Пуассона.](https://github.com/PetrSU-IMIT-2020/teorver/blob/main/question4.16/README.md)
 - [ ] 17. Суммы случайных величин, распределенных по нормальному закону.
-- [x] 18. [Распределение Эрланга.](https://github.com/PetrSU-IMIT-2020/teorver/tree/main/question4.18)
+- [x] 18. [Распределение Эрланга.](https://github.com/PetrSU-IMIT-2020/teorver/tree/main/question4.18/README.md)
 - [ ] 19. Метод наименьших квадратов.
-- [x] 20. Линейная регрессия.
+- [x] 20. [Линейная регрессия.](https://github.com/PetrSU-IMIT-2020/teorver/tree/main/question4.20/README.md)
