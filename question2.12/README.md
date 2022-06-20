@@ -8,9 +8,7 @@ $\sphericalangle$ отображение множества элементарн
 >
 >***тут картинка***
 >
->Тогда ***случайная величина*** $\xi(\omega)$ : $\forall x \in \mathbb R ^ 1 \quad {\omega : \xi(\omega) < x$} $\in F$   
->$\xi(\omega)$ : $\forall x \in \mathbb R ^ 1 \quad$ $\omega : \xi(\omega) < x$ $\in F$  
->$S = \{ z \in \mathbb{C}\, |\, |z| < 1 \} \quad \textrm{and} \quad S_2=\partial{S}$
+>Тогда ***случайная величина*** $\xi(\omega)$ : $\forall x \in \mathbb R ^ 1 \quad$ $\omega : \xi(\omega) < x$ $\in F$   
 >
 > > ***Словесно:** действительная функция $\xi(\omega)$, определенная на множестве элементарных исходов $\Omega$ - **случайная величина**, если для любого действительного числа $x$ множество тех $\omega$, для которых $\xi(\omega) < x$, является событием и принадлежит $\sigma$-алгебре.*
 >
