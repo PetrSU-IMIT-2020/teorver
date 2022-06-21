@@ -27,8 +27,7 @@ $$\varphi_\xi(t) = \int_{-\infty}^{+\infty} e^{it \;x} f(x) \mathbb{d}x $$
 
 Пусть случайная величина  $\xi $ имеет биномиальное распределение с параметрами n и p. Её характеристическая функция равна
 
-
-$$\varphi_\xi(t)=М(e^{it\xi}) = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{itx} * e^{\dfrac{-x^2|{2}} = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrac{-t^2}{2}} * e^{\dfrac{-(x- it)^2}{2}} dx = $$
+$$\varphi_\xi(t)=М(e^{it\xi}) = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{itx} * e^{\dfrac{-x^2}{2}} = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrac{-t^2}{2}} * e^{\dfrac{-(x- it)^2}{2}} dx = $$
 
 $$= e^{\dfrac{-t^2}{2}} \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrac{-(x- it)^2}{2}} d(x - it) = e^{\dfrac{-t^2}{2}} $$ 
 
