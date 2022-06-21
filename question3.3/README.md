@@ -37,7 +37,8 @@ $$P(B|_A) = \frac{P(AB)}{P(B)} = \frac{P(A)}{P(B)} = \frac{1 - P(\xi < t + \tau)
 
 ### Иная формулировка
 
-Пусть \xi - СВНТ с показательным распределнием:
+Пусть  $\xi $ - СВНТ с показательным распределнием:
+
 $$P(x) = \begin{cases} \lambda e^{-\lambda x}, \quad x \geq 0 \\
 0,  \quad  x < 0
 \end{cases} $$
