@@ -29,7 +29,7 @@ $$\varphi_\xi(t) = \int_{-\infty}^{+infty} e^{it \;x} f(x) \mathbb{d}x $$
 
 Пусть случайная величина  $\xi $ имеет биномиальное распределение с параметрами n и p. Её характеристическая функция равна
 
-$$\varphi_\xi(t)=E*e^{it\xi} = \sum_{k=0}^n e^{itk}P(\xi = k) = \sum_{k=0}^n e^{itk} C_n^k p^k q^{n-k} =$$
+$$\varphi_\xi(t)=М(e^{it\xi}) = \sum_{k=0}^n e^{itk}P(\xi = k) = \sum_{k=0}^n e^{itk} C_n^k p^k q^{n-k} =$$
 
 $$= \sum_{k=0}^n C_n^k (pe^{it})^k (1-p)^{n-k} = (1 - p + pe^{it})^n $$
 
