@@ -74,3 +74,26 @@ $x \in R$ таких,
 что $f_\xi(x) > 0$
 
 $$\displaystyle f_\eta(y|_x) = \frac{f_{\xi, \eta}(x, y)}{f_\xi(x)}$$
+
+## Свойства совместной плотности распределения
+
+Плотность распределения вероятностей обладает следующими свойствами:
+1. $f_{\xi, \eta}(x, y) \geq 0, \quad (x, y) \in R^2$
+2. $\displaystyle \int\limits_{-\infty}^{+\infty}ds\int\limits_{-\infty}^{+\infty} f_{\xi. \eta}(s, t)dt = 1$ (условие нормировки)
+3. Если $(x, y)$ - точка непрерывности плотности
+$f_{\xi, \eta}(x, y)$, то 
+$$\displaystyle f_{\xi, \eta}(x, y) = \frac{\partial^2F_{\xi, \eta}(x, y)}{\partial x \partial y}$$
+4. Плотности распределения вероятностей отдельных компонент случайного вектора выражаются в виде интегралов от совместной плотности:
+$$\displaystyle f_\xi(x) = \int\limits_{+\infty}^{\infty}f_{\xi, \eta}(x, y)dy, \qquad f_\eta(y) = \int\limits_{+\infty}^{\infty}f_{\xi, \eta}(x, y)dx$$
+
+
+---
+## Создатель
+
+Автор расписанного билета: Квист Татьяна
+
+Кто проверил:
+- ...
+
+## Ресурсы
+- [Учебник, стр. 56 - 59, 85-89 ](https://studizba.com/files/show/pdf/18027-4-4-chast.html)
