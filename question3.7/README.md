@@ -3,7 +3,7 @@
 ***Логарифмически-нормальное распределение***,  распределение вероятностей положительной 
 случайyой величины X, заданное плотностью
 
-$$ p(x) = \displaystyle \frac{1}{\sqrt{2\pi} \sigma x} e^(-\displaystyle \frac{(ln x - a)^2}{2 \sigma^2}) , x > 0,
+$$ p(x) = \displaystyle \frac{1}{\sqrt{2\pi} \sigma x} \displaystyle e^(-\displaystyle \frac{(ln x - a)^2}{2 \sigma^2}) , x > 0,
 $$
 
 где $-\infty < \alpha < \infty, \sigma > 0$ - параметры. Случайная величина X имеет Л.-н. р. с 
