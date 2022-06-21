@@ -31,6 +31,9 @@ $$\varphi_\xi(t)=М(e^{it\xi}) = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{itx}
 
 $$= e^{\dfrac{-t^2}{2}} \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrac{-(x- it)^2}{2}} d(x - it) = e^{\dfrac{-t^2}{2}} $$ 
 
+интеграл по всей прямой от функции \dfrac{1}{2\pi}e^{\dfrac{-u^2}{2}} равен 1, поэтому-то 
+\dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrac{-(x- it)^2}{2}} d(x - it) = 1
+
 
 ## Создатель
 
