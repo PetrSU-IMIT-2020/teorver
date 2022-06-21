@@ -72,7 +72,7 @@ $$\displaystyle f_\xi(x|_y) = \frac{f_{\xi, \eta}(x, y)}{f_\eta(y)} $$
 $x \in R$ таких, 
 что $f_\xi(x) > 0$
 
-$$\displaystyle f_\eta(y|_x) = \frac{f_{\xi, \eta}(x, y)}{f_\xi(x)}$$
+$$f_\eta(y|_x) = \frac{f_{\xi, \eta}(x, y)}{f_\xi(x)}$$
 
 ## Зависимость случайных величин
 
