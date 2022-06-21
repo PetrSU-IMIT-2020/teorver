@@ -22,7 +22,7 @@ $$\alpha = M_\xi, \quad \sigma = \sigma_\xi = \sqrt{D_\xi}$$
 
 Если случайная величина распределена по закону $N(0,1)$, то она называется стандартизированной нормальной величиной. Функция Лапласа (распределения стандартизированной гауссовской величины) называется функцией нормального распределения.
 
-$$\displaystyle \Phi(x) = \frac{1}{\sqrt{2\pi}}\int\limits_{-\infty}^x e^{-\frac{\tau^2}{2}}dt$$
+$$\displaystyle \Phi(x) = \frac{1}{\sqrt{2\pi}}\int\limits_{-\infty}^x e^{-\frac{\tau^2}{2}}d\tau$$
 
 > Степень $\displaystyle -\frac{\tau^2}{2}$
 
