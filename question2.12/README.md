@@ -106,7 +106,7 @@ $$F_x(x) = \int_{-\infty}^0 f_x(t) \mathrm{d}t +  \int_0^1 f_x(t) \mathrm{d}t + 
 
 $$F_x(x) =
 \begin{cases} 0, \quad & x < 0 \\
-2(x - \dfrac{x^2}{2}), \quad & 0 \geq x \leq 1 \\
+2(x - \dfrac{x^2}{2}), \quad & 0 \leq x \leq 1 \\
 1, \quad & x > 1
 \end{cases}
 $$
