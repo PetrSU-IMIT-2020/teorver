@@ -22,7 +22,10 @@
 
 Введем событие $A = \lbrace \xi \geq \varepsilon \rbrace$ 
 
-$$I_A(\omega) = \begin{cases} 0, & \quad \omega \notin A \\ 1, & \quad \omega \in A \end{cases}$$
+$$I_A(\omega) = 
+\begin{cases} 0, & \quad \omega \notin A \\
+1, & \quad \omega \in A 
+\end{cases}$$
 
 По определению $\varepsilon \leq \xi$ и 
 так как максимальное значение $I_A(\omega)$ 
