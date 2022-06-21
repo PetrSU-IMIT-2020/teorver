@@ -81,7 +81,7 @@ $$
 
 $$f_x(x) =
 \begin{cases} 0, \quad & x < 0 \\
-2*(1 - x), \quad & 0 \geq x \leq 1 \\
+2*(1 - x), \quad & 0 \leq x \leq 1 \\
 0, \quad & x > 1
 \end{cases}
 $$
