@@ -4,7 +4,7 @@
 
 На этом множестве определена система подмножеств и она называется алгеброй события($\sigma$), если выполняются следующие свойства:
   1. $\varnothing \in \sigma$, $\Omega \in \sigma$;
-  2. $A, B \in \sigma => AB \in \sigma, A+B \in \sigma, A\B \in \sigma$.
+  2. $A, B \in \sigma => AB \in \sigma, A+B \in \sigma, A \setminus B \in \sigma$.
 
 Алгебра событий называется $\sigma$-алгеброй, если:
   1. ${A_i} \in \sigma$, $i \in I$;
