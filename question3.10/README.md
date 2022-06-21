@@ -92,11 +92,6 @@ $$F_\xi(x) = F_{\xi_1, \xi_2, \cdots, \xi_n}(x_1, x_2, \cdots, x_n) = F_{\xi_1}(
 
 $$f_\xi(x) = f_{\xi_1, \xi_2, \cdots, \xi_n}(x_1, x_2, \cdots, x_n) = f_{\xi_1}(x_1)f_{\xi_2}(x_2)\cdots f_{\xi_n}(x_n)$$
 
-Если же дана мноомерная дискретная случайная величина, то соответствующее условие независимости его компонент записывается в виде 
-
-$$P\lbrace \xi_1 = x_1, \xi_2 = x_2, \cdots, \xi_n = x_n \rbrace =  P\lbrace \xi_1 = x_1 \rbrace P\lbrace \xi_2 = x_2 \rbrace \cdots P \lbrace \xi_n = x_n \rbrace$$
-
-
 ---
 ## Создатель
 
