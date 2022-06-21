@@ -77,6 +77,12 @@ $$\displaystyle P\lbrace \xi = x_i / \eta = y_j \rbrace = \frac{P\lbrace \xi = x
 
 $$P\lbrace (\xi, \eta) \in G \rbrace = \sum_i\sum_j p_{ij}$$
 
+## Зависимость случайных величин
+
+Условие независимости компонент записывается в виде 
+
+$$P\lbrace \xi_1 = x_1, \xi_2 = x_2, \cdots, \xi_n = x_n \rbrace =  P\lbrace \xi_1 = x_1 \rbrace P\lbrace \xi_2 = x_2 \rbrace \cdots P \lbrace \xi_n = x_n \rbrace$$
+
 ---
 ## Создатель
 
