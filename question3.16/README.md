@@ -34,6 +34,7 @@ $|\rho_{\xi, \eta}(\xi,a\xi + b)|=1$,
 ## Доказательство (из 1 следует зависимость)
 
 Если $\eta = a\xi + b$, то 
+
 $$\rho(\xi, a\xi + b) = \frac{M[\xi (a\xi + b)] - M_\xi M[a\xi +b]}{\sqrt{D_\xi} \sqrt{a\xi + b}} = \frac{aD_\xi}{\sqrt{D_\xi} \sqrt{a\xi + b}} = \begin{cases} 
 -1, \text{ если } a > 0\\
 1, \text{ если } a < 0
