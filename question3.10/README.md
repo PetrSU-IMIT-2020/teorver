@@ -101,3 +101,4 @@ $$f_\xi(x) = f_{\xi_1, \xi_2, \cdots, \xi_n}(x_1, x_2, \cdots, x_n) = f_{\xi_1}(
 - ...
 
 ## Ресурсы
+- [Учебник, стр. 56 - 59, 85-89 ](https://studizba.com/files/show/pdf/18027-4-4-chast.html)
