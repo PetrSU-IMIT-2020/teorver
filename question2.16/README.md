@@ -44,4 +44,4 @@ $X$ и определяет некоторый стандартный средн
 Кто проверил:
 
 ## Ресурсы
-???
+https://wiki.loginom.ru/articles/variance.html
