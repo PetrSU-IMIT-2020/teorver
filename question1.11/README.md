@@ -69,4 +69,4 @@ $P(A \cdot B) = \frac{6}{7} \cdot \frac{29}{34} = \frac{87}{119}$
 
 ## Ресурсы
 - Презентация vse_bloki_terver
-- Рандомная пикча в гугле с примером
+- [сайт](https://function-x.ru/probabilities2.html) 
