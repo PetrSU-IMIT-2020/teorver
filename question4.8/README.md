@@ -31,9 +31,6 @@ $$\varphi_\xi(t)=М(e^{it\xi}) = \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{itx}
 
 $$= e^{\dfrace{-t^2}{2}} \dfrac{1}{2\pi}\int_{-\infty}^{+\infty} e^{\dfrace{-(x- it)^2}{2}} d(x - it) = e^{\dfrace{-t^2}{2}} $$ 
 
-$$= \sum_{k=0}^n C_n^k (pe^{it})^k (1-p)^{n-k} = (1 - p + pe^{it})^n $$
-
-Последнее равенство есть бином Ньютона.
 
 ## Создатель
 
