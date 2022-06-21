@@ -66,9 +66,9 @@ $$\displaystyle P\lbrace \xi = 0 \rbrace = P\lbrace \overline{\omega_1}\overline
 2. Выпал один герб  
 $$\displaystyle P\lbrace \xi = 1 \rbrace = P\lbrace \omega_1\overline{\omega_2}\overline{\omega_3} + \overline{\omega_1}\omega_2\overline{\omega_3} + \overline{\omega_1}\overline{\omega_2}\omega_3 \rbrace =  3\cdot \frac{1}{8}$$
 3. Выпало два герба  
-$$\displaystyle P\lbrace \xi = 1 \rbrace = P\lbrace \omega_1\omega_2\overline{\omega_3} + \omega_1\overline{\omega_2}\omega_3 + \overline{\omega_1}\omega_2\omega_3 \rbrace =  3\cdot \frac{1}{8}$$
+$$\displaystyle P\lbrace \xi = 2 \rbrace = P\lbrace \omega_1\omega_2\overline{\omega_3} + \omega_1\overline{\omega_2}\omega_3 + \overline{\omega_1}\omega_2\omega_3 \rbrace =  3\cdot \frac{1}{8}$$
 4. Выпало три герба
-$$\displaystyle P\lbrace \xi = 0 \rbrace = P\lbrace \omega_1\omega_2\omega_3 \rbrace = \frac{1}{8}$$
+$$\displaystyle P\lbrace \xi = 3 \rbrace = P\lbrace \omega_1\omega_2\omega_3 \rbrace = \frac{1}{8}$$
 
 
 | $\xi$ | 0     | 1     | 2     | 3     |
