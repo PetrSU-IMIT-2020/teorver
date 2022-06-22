@@ -37,7 +37,7 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
       $P(A+B) = P(A) - P(AB) + P(B) - P(AB) + P(AB)$  
       $P(A+B)= P(A) + P(B) - P(AB)$  
       
-6. Пусть $B = \bigcup_{\substack{ i \in I }}A_i  \quad P(B) \leq \sum_{\substack{ i \in I }} P(A_i)$  
+6. Пусть $\displaystyle B = \bigcup_{\substack{ i \in I }}A_i  \quad P(B) \leq \sum_{\substack{ i \in I }} P(A_i)$  
    $B = A_1 + A_2\setminus A_1 + A_3\setminus A_1 A_2 + ...$  
    $A_2\setminus A_1 \leq P(A_2) \quad  A_3\setminus A_1 A_2 \leq P(A_3)$ и тд по свойству 2  
    
