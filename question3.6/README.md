@@ -12,9 +12,9 @@
 
 Пусть 
 
-$\xi = (x_i, p_i)_{i\in I} $,
+$\xi = (x_i, p_i)_{i\in I} $
 
-$\eta = f(\xi) $,
+$\eta = f(\xi) $
 
 $\eta = (y_i, q_i)_{i\in I} $
 
