@@ -52,7 +52,7 @@ $$B = \{\xi > x + t\} $$
 
 Тогда
 
-$$P(B|_A) = \frac{P(AB)}{P(B)} = \frac{P(A)}{P(B)} = \frac{1 - P(\xi < x + t)}{1 - P(\xi - x)} = \frac{e^{-\lambda(x+t)}}{e^{-\lambda x}} = e^{-\lambda t} = P(\xi > t) $$
+$$P(B|_A) = \frac{P(AB)}{P(B)} = \frac{P(A)}{P(B)} = \frac{1 - P(\xi < x + t)}{1 - P(\xi < x)} = \frac{e^{-\lambda(x+t)}}{e^{-\lambda x}} = e^{-\lambda t} = P(\xi > t) $$
 
 Условная вероятность равна безусловной
 
