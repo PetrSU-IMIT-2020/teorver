@@ -8,7 +8,7 @@
 
 $P_n(m) = \frac{n!}{m!(n-m)!}p^m(1-p)^{n-m} {\underset{P_n = \frac{\lambda_n}{n}}{{\underset{nP_n = \lambda_n}{=}}}}$
 
-$= \frac{(n-m+1)(n-m+2)...n}{m!} \frac{\lambda_n^m}{n^m}(-1 - \frac{\lambda_n}{n})^n(1 - \frac{\lambda_n}{n})^n \xrightarrow[n\to\infty]{}$
+$= \frac{(n-m+1)(n-m+2)...n}{m!} \frac{\lambda_n^m}{n^m}(-1 - \frac{\lambda_n}{n})^n(1 - \frac{\lambda_n}{n})^{-m} \xrightarrow[n\to\infty]{}$
 
 $\xrightarrow[n\to\infty]{} \frac{\lambda^m}{m!}e^{-\lambda}$ - распределение редких событий
 
