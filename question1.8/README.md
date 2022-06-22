@@ -28,10 +28,12 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
    $P(A+B) = P(A) + P(B) - P(AB)$  
    
    $1) A = A \setminus B \cup AB$  
+   
       $P(A) = P(A\setminus B) + P(AB)$  
+      
       $P(A\setminus B) = P(A) - P(AB)$
       
-   $2) $ Аналогично 1 
+   2)  Аналогично 1 
    
    $3) A+B = A\setminus B + B\setminus A + AB$  
       $P(A+B) = P(A\setminus B) + P(B\setminus A) + P(AB)$  
