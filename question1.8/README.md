@@ -28,8 +28,8 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
    $P(A+B) = P(A) + P(B) - P(AB)$  
    
    $1) A = A$ \ B $\cup AB$  
-      $P(A) = P(A\ B) + P(AB)$  
-      $P(A\ B) = P(A) - P(AB)$  
+      P(A) = P(A\ B) + P(AB)
+      P(A\ B) = P(A) - P(AB)
    2) Аналогично 1
    $3) A+B = A\\ B + B\\ A + AB$  
       $P(A+B) = P(A\ B) + P(B\ A) + P(AB)$  
