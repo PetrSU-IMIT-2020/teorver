@@ -27,7 +27,7 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
    $P(B\ A) = P(B) - P(AB)$  
    $P(A+B) = P(A) + P(B) - P(AB)$  
    
-   1) A = A \ B $\cup AB$  
+   $1) A = A$ \ B $\cup AB$  
       $P(A) = P(A\ B) + P(AB)$  
       $P(A\ B) = P(A) - P(AB)$  
    2) Аналогично 1
