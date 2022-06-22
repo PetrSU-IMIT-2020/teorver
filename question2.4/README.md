@@ -22,9 +22,13 @@ $M_\xi = \displaystyle\sum_{i \in I} x_ip_i$
 3. $M[k\xi + l\eta] = kM_\xi + lM_\eta$
 4. $(\Omega, F, \mathbb P) \quad \text{Пусть } A \in F - \text{некоторое событие A}$
 
-    $I_A = \begin{cases} 0, & \quad \text{A не произошло} \\ 1, & \quad \text{A произошло} \end{cases}$
-    
-    $M[I_A] = p(A)$
+$$I_A = 
+    \begin{cases} 
+    0, \quad \text{A не произошло} \\ 
+    1, \quad \text{A произошло} 
+    \end{cases}$$
+
+   $M[I_A] = p(A)$
     
 5. $\forall x,y \quad \{\omega : \xi(\omega) < x\}, \{\omega : \eta(\omega) < y\}$
 
