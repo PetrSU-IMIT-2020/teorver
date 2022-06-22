@@ -27,13 +27,13 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
    $P(B\setminus A) = P(B) - P(AB)$  
    $P(A+B) = P(A) + P(B) - P(AB)$  
    
-   $1) A = A \setminus B \cup AB$  
+   1)$ A = A \setminus B \cup AB$  
       $P(A) = P(A\setminus B) + P(AB)$  
       $P(A\setminus B) = P(A) - P(AB)$  
    
    2) Аналогично 1
    
-   $3) A+B = A\setminus B + B\setminus A + AB$  
+   3)$ A+B = A\setminus B + B\setminus A + AB$  
       $P(A+B) = P(A\setminus B) + P(B\setminus A) + P(AB)$  
       $P(A+B) = P(A) - P(AB) + P(B) - P(AB) + P(AB)$  
       $P(A+B)= P(A) + P(B) - P(AB)$  
