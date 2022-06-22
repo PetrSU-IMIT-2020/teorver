@@ -8,9 +8,9 @@
 
 Алгебра событий называется $\sigma$-алгеброй, если:
   1. ${A_i} \in \sigma$, $i \in I$;
-  2. $\bigcup_{\substack{ i \in I }}A_i \in \sigma$, $\bigcap_{\substack{ i \in I }}A_i \in \sigma$.
+  2. $\displaystyle \bigcup_{\substack{ i \in I }}A_i \in \sigma$, $\displaystyle \bigcap_{\substack{ i \in I }}A_i \in \sigma$.
 
-Элемента $\sigma$-алгебры называются случайными событиями.
+Элементы $\sigma$-алгебры называются случайными событиями.
 
 $(\Omega, \sigma,	{\displaystyle \mathbb {P}})$ - вероятностное пространство.
 
@@ -19,11 +19,11 @@ $\sigma$ — сигма-алгебра подмножеств ${\displaystyle \O
 ${\displaystyle \mathbb {P} }$  — вероятностная мера или вероятность, то есть сигма-аддитивная конечная мера, такая что ${\displaystyle \mathbb {P} (\Omega )=1}$.
 
 Пусть для любых $A \in \sigma$ заданая некоторая числовая функция P(A) называется вероятностью, если эта функция удовлетворяет четырем аксиомам:
-  1. аксиома неотрицательности: $\forall A P(A) > 0$;
+  1. аксиома неотрицательности: $\forall A: P(A) > 0$;
   2. аксиома нормирования: $P(\Omega) = 1$;
   3. аксиома счетной аддитивности:\
      Пусть существует  {$A_i$} : $A_i * A_j = \varnothing $, $\forall i,j$, $i \neq j$, $i,j \in I$\
-     $P(\bigcup_{\substack{ i \in I }}A_i) = \sum_{\substack{ i \in I }}P(A_i)$;
+     $\displaystyle P(\bigcup_{\substack{ i \in I }}A_i) = \sum_{\substack{ i \in I }}P(A_i)$;
   4. аксиома полноты: пусть $A \in \sigma $ : P(A) = 0 $ \forall B \in A$, P(B) = 0.
 
 Случайное событие - это элемент $\sigma$-алгебры вероятностного пространства.
