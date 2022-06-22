@@ -39,7 +39,7 @@ ${\displaystyle \mathbb {P} }$  — вероятностная мера или �
       
 6. Пусть $B = \bigcup_{\substack{ i \in I }}A_i  \quad P(B) \leq \sum_{\substack{ i \in I }} P(A_i)$  
    $B = A_1 + A_2\setminus A_1 + A_3\setminus A_1 A_2 + ...$  
-   $A_2\setminus A_1 \leq P(A_2)   A_3\setminus A_1 A_2 \leq P(A_3)$ и тд по свойству 2  
+   $A_2\setminus A_1 \leq P(A_2) \quad  A_3\setminus A_1 A_2 \leq P(A_3)$ и тд по свойству 2  
    
 7. Пусть если семейство событий $A_1, A_2, ..., A_n$  
    $P_1 = \sum_{\substack{ 1 \leq i \leq n }} P(A_i)$  
